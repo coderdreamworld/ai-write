@@ -1,0 +1,1 @@
+/Users/sxd/Documents/EasyLuaEncryptor  bbq/src -key bbqencrypt -sign XXTEA
